@@ -1,0 +1,22 @@
+body{
+    font-family: Helvetica;
+}
+
+#lyrics{
+    white-space: pre-wrap;
+}
+
+button{
+    background-color: #e600c7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+p{
+    font-size: 18px;
+    white-space: pre-wrap;
+}
